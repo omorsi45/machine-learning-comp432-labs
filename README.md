@@ -4,7 +4,7 @@ This repository contains my lab work for COMP 432 (Machine Learning) at Concordi
 
 ## Structure
 
-- `lab1.ipynb` → `lab8.ipynb`  
+- `lab1.ipynb` → `lab10.ipynb`  
   Each file is a separate lab notebook with its code and results.
 
 ## Tools
